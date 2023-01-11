@@ -1,0 +1,21 @@
+.class{
+    height: fit-content;
+    width: 580px;
+    border: 3px solid rgb(79, 161, 228);
+    margin-top: 100px;
+    margin-left: -559px;
+    border-radius: 50px;
+    background-color: rgb(90, 136, 214);
+    
+    background-image:radial-gradient(yellow,pink);
+}
+
+.para{
+    text-decoration-color: chartreuse;
+  }
+    
+  
+ body{
+    background-image: linear-gradient(to bottom right ,rgb(164, 153, 31),rgb(47, 178, 183));
+ } 
+  
