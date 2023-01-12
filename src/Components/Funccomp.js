@@ -1,4 +1,4 @@
-import PropTypes from 'prop-types'
+
 import React, { Component } from 'react'
 import './Func.css';
 export class Funccomp extends Component {
